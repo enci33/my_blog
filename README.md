@@ -1,12 +1,11 @@
 
-
- - [以前的博客][1]
+ - [从Vue源码学习Javascript之静态类型检查][4]
 
  - [从Vue源码学习JavaScript之this instanceof Vue][2]
 
  - [从Vue源码学习JavaScript之Object.defineproperty][3]
-
- - [从Vue源码学习Javascript之静态类型检查][4]
+ 
+  - [以前的博客][1]
  
  
  
