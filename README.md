@@ -1,3 +1,4 @@
+ - 新博客迁移至：[https://blog.enci.site/][6]
  - [JavaSript console都有哪些方法][5]
  - [从Vue源码学习Javascript之静态类型检查][4]
 
@@ -17,3 +18,4 @@
   [3]: https://github.com/enci33/blog/issues/2
   [4]: https://github.com/enci33/blog/issues/3
   [5]: https://github.com/enci33/blog/issues/4
+  [6]: https://blog.enci.site/
